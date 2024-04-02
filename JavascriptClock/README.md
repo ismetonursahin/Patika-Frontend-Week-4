@@ -1,3 +1,3 @@
 ## Javascript Saat ve Karşılama
 
-![](/img/img.png)
+![](/JavascriptClock/img/img.png)
